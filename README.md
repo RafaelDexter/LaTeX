@@ -1,7 +1,7 @@
 # LaTeX
 Não é borracha!
 
-![logo ctan](https://www.ctan.org/lion/ctan_lion_350x350.png)
+![logo ctan](https://ctan.org/lion/files/ctan_lion_600.png)
 
 #
 
